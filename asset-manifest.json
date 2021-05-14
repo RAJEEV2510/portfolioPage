@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portfolioPage/static/css/main.6d9dfceb.chunk.css",
+    "main.js": "/portfolioPage/static/js/main.2d530767.chunk.js",
+    "main.js.map": "/portfolioPage/static/js/main.2d530767.chunk.js.map",
+    "runtime-main.js": "/portfolioPage/static/js/runtime-main.ebdf5558.js",
+    "runtime-main.js.map": "/portfolioPage/static/js/runtime-main.ebdf5558.js.map",
+    "static/js/2.1f3b41e8.chunk.js": "/portfolioPage/static/js/2.1f3b41e8.chunk.js",
+    "static/js/2.1f3b41e8.chunk.js.map": "/portfolioPage/static/js/2.1f3b41e8.chunk.js.map",
+    "static/js/3.e03ce364.chunk.js": "/portfolioPage/static/js/3.e03ce364.chunk.js",
+    "static/js/3.e03ce364.chunk.js.map": "/portfolioPage/static/js/3.e03ce364.chunk.js.map",
+    "index.html": "/portfolioPage/index.html",
+    "static/css/main.6d9dfceb.chunk.css.map": "/portfolioPage/static/css/main.6d9dfceb.chunk.css.map",
+    "static/js/2.1f3b41e8.chunk.js.LICENSE.txt": "/portfolioPage/static/js/2.1f3b41e8.chunk.js.LICENSE.txt",
+    "static/media/covidapp.3e79d79f.PNG": "/portfolioPage/static/media/covidapp.3e79d79f.PNG",
+    "static/media/cyberblog.67037a84.PNG": "/portfolioPage/static/media/cyberblog.67037a84.PNG",
+    "static/media/email.9082177d.png": "/portfolioPage/static/media/email.9082177d.png",
+    "static/media/map.4291a16a.png": "/portfolioPage/static/media/map.4291a16a.png",
+    "static/media/movie.85b2b2c1.PNG": "/portfolioPage/static/media/movie.85b2b2c1.PNG",
+    "static/media/mypic.6cef0858.jpg": "/portfolioPage/static/media/mypic.6cef0858.jpg",
+    "static/media/newsapp.3ea227be.jpeg": "/portfolioPage/static/media/newsapp.3ea227be.jpeg",
+    "static/media/onlinedirectoryapp.49bf6c96.PNG": "/portfolioPage/static/media/onlinedirectoryapp.49bf6c96.PNG",
+    "static/media/phone.097ef67f.png": "/portfolioPage/static/media/phone.097ef67f.png",
+    "static/media/portfolio.004eb1ee.png": "/portfolioPage/static/media/portfolio.004eb1ee.png",
+    "static/media/pwdmanager.aaabfbb1.png": "/portfolioPage/static/media/pwdmanager.aaabfbb1.png",
+    "static/media/secretchat.748af626.png": "/portfolioPage/static/media/secretchat.748af626.png",
+    "static/media/socialmedia.eb6b545e.png": "/portfolioPage/static/media/socialmedia.eb6b545e.png",
+    "static/media/youtubeapp.0ca4c0d5.jpg": "/portfolioPage/static/media/youtubeapp.0ca4c0d5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebdf5558.js",
+    "static/js/2.1f3b41e8.chunk.js",
+    "static/css/main.6d9dfceb.chunk.css",
+    "static/js/main.2d530767.chunk.js"
+  ]
+}
